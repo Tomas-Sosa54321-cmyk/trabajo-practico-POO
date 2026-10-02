@@ -1,7 +1,7 @@
 # Trabajo Práctico de POO
 
 // DE: Ángel Tomás Sosa García 
-  --Optativo I
+  -- Optativo I
 
 Universidad Americana
 
